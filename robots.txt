@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Peppe2404.github.io/readme-agz3mh/sitemap.xml
